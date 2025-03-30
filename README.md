@@ -1,6 +1,6 @@
-### **Resume Web Portofolio**  
+### **Web Portofolio**  
 
-Website portofolio ini dibangun menggunakan **HTML, CSS, dan JavaScript** untuk menampilkan informasi pribadi, proyek, dan keterampilan penggunanya.  
+Website portofolio ini dibangun menggunakan **HTML, CSS, dan JavaScript** untuk menampilkan informasi pribadi, project, dan keterampilan.  
 
 #### **Fitur Utama:**  
 ✔ **Tampilan Responsif** – Desain yang dapat menyesuaikan berbagai ukuran layar.  
